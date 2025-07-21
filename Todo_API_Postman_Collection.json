@@ -810,7 +810,7 @@
 	"variable": [
 		{
 			"key": "base_url",
-			"value": "http://38.242.194.64:8000",
+			"value": "http://38.242.194.64:9090",
 			"type": "string",
 			"description": "Base URL for the API server"
 		},
